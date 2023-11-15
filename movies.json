@@ -1,0 +1,302 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "author": "Frank Darabont",
+        "genre": "Drama",
+        "year": "1994"
+    },
+    {
+        "title": "The Godfather",
+        "author": "Francis Ford Coppola",
+        "genre": "Crime, Drama",
+        "year": "1972"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "author": "Francis Ford Coppola",
+        "genre": "Crime, Drama",
+        "year": "1974"
+    },
+    {
+        "title": "The Dark Knight",
+        "author": "Christopher Nolan",
+        "genre": "Action, Crime, Drama",
+        "year": "2008"
+    },
+    {
+        "title": "12 Angry Men",
+        "author": "Sidney Lumet",
+        "genre": "Crime, Drama",
+        "year": "1957"
+    },
+    {
+        "title": "Schindler's List",
+        "author": "Steven Spielberg",
+        "genre": "Biography, Drama, History",
+        "year": "1993"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "author": "Peter Jackson",
+        "genre": "Adventure, Drama, Fantasy",
+        "year": "2003"
+    },
+    {
+        "title": "Pulp Fiction",
+        "author": "Quentin Tarantino",
+        "genre": "Crime, Drama",
+        "year": "1994"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "author": "Sergio Leone",
+        "genre": "Western",
+        "year": "1966"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "author": "Peter Jackson",
+        "genre": "Adventure, Drama, Fantasy",
+        "year": "2001"
+    },
+    {
+        "title": "Forrest Gump",
+        "author": "Robert Zemeckis",
+        "genre": "Drama, Romance",
+        "year": "1994"
+    },
+    {
+        "title": "Inception",
+        "author": "Christopher Nolan",
+        "genre": "Action, Adventure, Sci-Fi",
+        "year": "2010"
+    },
+    {
+        "title": "Fight Club",
+        "author": "David Fincher",
+        "genre": "Drama",
+        "year": "1999"
+    },
+    {
+        "title": "The Matrix",
+        "author": "Lana Wachowski, Lilly Wachowski",
+        "genre": "Action, Sci-Fi",
+        "year": "1999"
+    },
+    {
+        "title": "Goodfellas",
+        "author": "Martin Scorsese",
+        "genre": "Biography, Crime, Drama",
+        "year": "1990"
+    },
+    {
+        "title": "The Empire Strikes Back",
+        "author": "Irvin Kershner",
+        "genre": "Action, Adventure, Fantasy",
+        "year": "1980"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Milos Forman",
+        "genre": "Drama",
+        "year": "1975"
+    },
+    {
+        "title": "Interstellar",
+        "author": "Christopher Nolan",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "year": "2014"
+    },
+    {
+        "title": "City of God",
+        "author": "Fernando Meirelles, K\u00e1tia Lund",
+        "genre": "Crime, Drama",
+        "year": "2002"
+    },
+    {
+        "title": "Spirited Away",
+        "author": "Hayao Miyazaki",
+        "genre": "Animation, Adventure, Family",
+        "year": "2001"
+    },
+    {
+        "title": "Se7en",
+        "author": "David Fincher",
+        "genre": "Crime, Drama, Mystery",
+        "year": "1995"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "author": "Jonathan Demme",
+        "genre": "Crime, Drama, Thriller",
+        "year": "1991"
+    },
+    {
+        "title": "Casablanca",
+        "author": "Michael Curtiz",
+        "genre": "Drama, Romance, War",
+        "year": "1942"
+    },
+    {
+        "title": "The Usual Suspects",
+        "author": "Bryan Singer",
+        "genre": "Crime, Mystery, Thriller",
+        "year": "1995"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "author": "Steven Spielberg",
+        "genre": "Action, Adventure",
+        "year": "1981"
+    },
+    {
+        "title": "Memento",
+        "author": "Christopher Nolan",
+        "genre": "Mystery, Thriller",
+        "year": "2000"
+    },
+    {
+        "title": "Rear Window",
+        "author": "Alfred Hitchcock",
+        "genre": "Mystery, Thriller",
+        "year": "1954"
+    },
+    {
+        "title": "The Prestige",
+        "author": "Christopher Nolan",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "year": "2006"
+    },
+    {
+        "title": "The Lion King",
+        "author": "Roger Allers, Rob Minkoff",
+        "genre": "Animation, Adventure, Drama",
+        "year": "1994"
+    },
+    {
+        "title": "Gladiator",
+        "author": "Ridley Scott",
+        "genre": "Action, Adventure, Drama",
+        "year": "2000"
+    },
+    {
+        "title": "The Departed",
+        "author": "Martin Scorsese",
+        "genre": "Crime, Drama, Thriller",
+        "year": "2006"
+    },
+    {
+        "title": "Whiplash",
+        "author": "Damien Chazelle",
+        "genre": "Drama, Music",
+        "year": "2014"
+    },
+    {
+        "title": "The Intouchables",
+        "author": "Olivier Nakache, \u00c9ric Toledano",
+        "genre": "Biography, Comedy, Drama",
+        "year": "2011"
+    },
+    {
+        "title": "The Pianist",
+        "author": "Roman Polanski",
+        "genre": "Biography, Drama, Music",
+        "year": "2002"
+    },
+    {
+        "title": "The Green Mile",
+        "author": "Frank Darabont",
+        "genre": "Crime, Drama, Fantasy",
+        "year": "1999"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "author": "Steven Spielberg",
+        "genre": "Drama, War",
+        "year": "1998"
+    },
+    {
+        "title": "Life is Beautiful",
+        "author": "Roberto Benigni",
+        "genre": "Comedy, Drama, War",
+        "year": "1997"
+    },
+    {
+        "title": "La La Land",
+        "author": "Damien Chazelle",
+        "genre": "Comedy, Drama, Music",
+        "year": "2016"
+    },
+    {
+        "title": "The Terminator",
+        "author": "James Cameron",
+        "genre": "Action, Sci-Fi",
+        "year": "1984"
+    },
+    {
+        "title": "Back to the Future",
+        "author": "Robert Zemeckis",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "year": "1985"
+    },
+    {
+        "title": "Psycho",
+        "author": "Alfred Hitchcock",
+        "genre": "Horror, Mystery, Thriller",
+        "year": "1960"
+    },
+    {
+        "title": "The Breakfast Club",
+        "author": "John Hughes",
+        "genre": "Comedy, Drama",
+        "year": "1985"
+    },
+    {
+        "title": "The Shining",
+        "author": "Stanley Kubrick",
+        "genre": "Drama, Horror",
+        "year": "1980"
+    },
+    {
+        "title": "Am\u00e9lie",
+        "author": "Jean-Pierre Jeunet",
+        "genre": "Comedy, Romance",
+        "year": "2001"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "author": "Stanley Kubrick",
+        "genre": "Crime, Drama, Sci-Fi",
+        "year": "1971"
+    },
+    {
+        "title": "Taxi Driver",
+        "author": "Martin Scorsese",
+        "genre": "Crime, Drama",
+        "year": "1976"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Robert Mulligan",
+        "genre": "Crime, Drama",
+        "year": "1962"
+    },
+    {
+        "title": "The Apartment",
+        "author": "Billy Wilder",
+        "genre": "Comedy, Drama, Romance",
+        "year": "1960"
+    },
+    {
+        "title": "Alien",
+        "author": "Ridley Scott",
+        "genre": "Horror, Sci-Fi",
+        "year": "1979"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "author": "Giuseppe Tornatore",
+        "genre": "Drama",
+        "year": "1988"
+    }
+]
